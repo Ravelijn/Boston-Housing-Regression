@@ -20,5 +20,5 @@ Data ditambil dari https://www.kaggle.com/datasets/fedesoriano/the-boston-housep
 
  Fokus utama  projek ini yakni sebagai berikut:
  
-    1. Menyusun dan menguji hipotesa terkait variabel-varibel yang ada   
+    1. Menyusun dan menguji hipotesa terkait variabel-variabel yang ada   
     2. Menyusun model regresi untuk memprediksi harga rumah 
