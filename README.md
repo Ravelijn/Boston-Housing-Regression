@@ -19,5 +19,6 @@ Data ditambil dari https://www.kaggle.com/datasets/fedesoriano/the-boston-housep
     MEDV: Median value of owner-occupied homes in 1000 dollars.
 
  Fokus utama  projek ini yakni sebagai berikut:
+ 
     1. Menyusun dan menguji hipotesa terkait variabel-varibel yang ada   
     2. Menyusun model regresi untuk memprediksi harga rumah 
